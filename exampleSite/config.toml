@@ -16,7 +16,6 @@ weight = 1
 contentDir = "content/turkish"
 copyright = "Telif hakkı &copy; 2020 [Themefisher](https://themefisher.com) Tüm hakları saklıdır"
 home = "Anasayfa"
-about = "Hakkında"
 languageCode = "tr-tr"
 languageName = "Tr"
 weight = 2
