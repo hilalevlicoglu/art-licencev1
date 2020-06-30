@@ -8,7 +8,6 @@ title = "Art-Licence | Licensing & Brand Management"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Design [Themefisher](https://themefisher.com) All Rights Reserved"
-home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -28,19 +27,22 @@ weight = 1
 	[[Languages.en.menu.main]]
 	URL = "contact"
 	name = "Contact"
-	weight = 3
+	weight = 4
 	[[Languages.en.menu.main]]
 	URL = "our-license"
 	name = "Our license"
-	weight = 2
+	weight = 3
 	[[Languages.en.menu.main]]
 	URL = "about"
 	name = "About"
+	weight = 2
+	[[Languages.en.menu.main]]
+	URL = ""
+	name = "Home"
 	weight = 1
 [Languages.tr]
 contentDir = "content/turkish"
 copyright = "Telif hakkı &copy; 2020 Tasarım [Themefisher](https://themefisher.com) Tüm hakları saklıdır"
-home = "sad"
 languageCode = "tr-tr"
 languageName = "Tr"
 weight = 2
