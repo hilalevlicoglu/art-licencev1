@@ -19,6 +19,10 @@ home = "Anasayfa"
 languageCode = "tr-tr"
 languageName = "Tr"
 weight = 2
+[Languages.tr.menu]
+[[Languages.tr.menu.main]]
+URL = "contact"
+name = "iletisim"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
