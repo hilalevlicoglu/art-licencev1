@@ -1,6 +1,6 @@
 ---
-title: "About Us"
-description: ""
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Hakkımızda
+description: ''
+bg_image: images/featue-bg.jpg
+
 ---
