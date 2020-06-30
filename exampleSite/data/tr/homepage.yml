@@ -8,8 +8,8 @@ banner:
     deliver  the best possible solutions for their needs
   button:
     enable: true
-    label: Discover Our Project
-    link: project
+    label: Lisanslarımızı Keşfet
+    link: our-license
 about:
   enable: true
   title: About Us
