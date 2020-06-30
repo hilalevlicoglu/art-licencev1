@@ -60,19 +60,19 @@ weight = 2
 	[[Languages.tr.menu.main]]
 	URL = "contact"
 	name = "İletişim"
-	weight = 3
+	weight = 4
 	[[Languages.tr.menu.main]]
 	URL = "our-license"
 	name = "Lisanslarımız"
-	weight = 2
+	weight = 3
 	[[Languages.tr.menu.main]]
 	URL = "about"
 	name = "Hakkımızda"
-	weight = 1
+	weight = 2
 	[[Languages.tr.menu.main]]
 	URL = "tr"
-	name = "Ana3"
-	weight = 5
+	name = "Anasayfa"
+	weight = 1
 [params]
 author = "Themefisher"
 contact_form_action = "https://formspree.io/xvowbybb"
