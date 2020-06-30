@@ -37,21 +37,21 @@ sections:
   templates:
   - author
 - type: heading
-  label: Project
+  label: Our license
 - type: directory
-  path: exampleSite/content/english/project
-  label: Project (en)
+  path: exampleSite/content/english/our-license
+  label: our-license (en)
   create: documents
   match: "**/*"
   templates:
-  - project
+  - our-license
 - type: directory
-  path: exampleSite/content/turkish/project
-  label: Project (tr)
+  path: exampleSite/content/turkish/our-license
+  label: our-license (tr)
   create: documents
   match: "**/*"
   templates:
-  - project
+  - our-license
 - type: heading
   label: Others Pages
 - type: directory
