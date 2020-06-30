@@ -1,0 +1,105 @@
+baseURL = "https://art-licencev1.netlify.app/"
+disableLanguages = []
+disqusShortname = ""
+paginate = "4"
+summaryLength = "30"
+theme = "airspace-hugo"
+title = "Art-Licence | Licensing & Brand Management"
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[Languages.tr]
+contentDir = "content/turkish"
+copyright = "Telif hakkı &copy; 2020 [Themefisher](https://themefisher.com) Tüm hakları saklıdır"
+home = "Anasayfa"
+languageCode = "tr-tr"
+languageName = "Tr"
+weight = 2
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.footer]]
+URL = "our-license"
+name = "Our license"
+weight = 2
+[[menu.footer]]
+URL = "about"
+name = "About"
+weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "our-license"
+name = "OUR LICENSE"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+[params]
+author = "Themefisher"
+contact_form_action = "https://formspree.io/xvowbybb"
+description = "Licencing Company"
+email = "info@art-licence.com"
+google_analitycs_id = ""
+location = "Istanbul,Turkey"
+logo = "images/logo.png"
+mobile = ""
+multi_author = false
+[params.gmap]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+[params.nav_button]
+enable = true
+label = "Get A Quote"
+link = "contact"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/Ionicons/css/ionicons.min.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+[params.preloader]
+enable = true
+preloader = ""
+[params.widgets]
+sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+[[params.social]]
+icon = "ion-social-linkedin-outline"
+link = "#"
+[[params.social]]
+icon = "ion-social-pinterest-outline"
+link = "#"
+[[params.social]]
+icon = "ion-social-dribbble-outline"
+link = "#"
+[[params.social]]
+icon = "ion-social-twitter-outline"
+link = "#"
+[[params.social]]
+icon = "ion-social-facebook-outline"
+link = "#"
