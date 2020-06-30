@@ -45,7 +45,7 @@ name = "About"
 weight = 1
 [params]
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "mailto:meticey2@gmail.com"
 description = "Licencing Company"
 email = "info@art-licence.com"
 google_analitycs_id = ""
