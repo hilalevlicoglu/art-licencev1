@@ -46,15 +46,15 @@ languageName = "Tr"
 weight = 2
 [Languages.tr.menu]
 	[[Languages.tr.menu.footer]]
-	URL = "contact"
+	URL = "tr/contact"
 	name = "İletişim"
 	weight = 3
 	[[Languages.tr.menu.footer]]
-	URL = "our-license"
+	URL = "tr/our-license"
 	name = "Lisanslarımız"
 	weight = 2
 	[[Languages.tr.menu.footer]]
-	URL = "about"
+	URL = "tr/about"
 	name = "Hakkımızda"
 	weight = 1	
 	[[Languages.tr.menu.main]]
