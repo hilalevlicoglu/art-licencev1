@@ -24,8 +24,8 @@ URL = "contact"
 name = "Contact"
 weight = 3
 [[menu.footer]]
-URL = "project"
-name = "Project"
+URL = "our-license"
+name = "Our license"
 weight = 2
 [[menu.footer]]
 URL = "about"
@@ -36,8 +36,8 @@ URL = "contact"
 name = "Contact"
 weight = 3
 [[menu.main]]
-URL = "project"
-name = "Project"
+URL = "our-license"
+name = "Our license"
 weight = 2
 [[menu.main]]
 URL = "about"
