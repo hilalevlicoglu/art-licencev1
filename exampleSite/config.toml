@@ -40,7 +40,7 @@ weight = 1
 [Languages.tr]
 contentDir = "content/turkish"
 copyright = "Telif hakkı &copy; 2020 Tasarım [Themefisher](https://themefisher.com) Tüm hakları saklıdır"
-home = "Anasayfa"
+home = ""
 languageCode = "tr-tr"
 languageName = "Tr"
 weight = 2
