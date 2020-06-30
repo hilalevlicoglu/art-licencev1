@@ -19,7 +19,7 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="navigation">
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="{{ site.BaseURL | absLangURL }}">{{ site.Params.home }}</a></li>
+              <li><a href="{{ site.BaseURL }}">{{ site.Params.home }}</a></li>
 
               {{ range site.Menus.main }}
               {{ if .HasChildren }}
