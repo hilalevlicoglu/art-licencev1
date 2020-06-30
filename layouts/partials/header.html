@@ -53,7 +53,7 @@
                     {{ .LanguageName }}
                   </option>
                   {{ else }}
-                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ Language.LanguageName }}
+                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}
                   </option>
                   {{ end }}
                   {{ end }}
