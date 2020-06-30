@@ -75,12 +75,6 @@ weight = 2
 	URL = "tr"
 	name = "Anasayfa"
 	weight = 1
-[Languages.tr.params]
-[Languages.tr.params.contact]
-name = "İsminiz"
-email = "Mail Adresiniz"
-subject = "Konu"
-message = "Mesajınız"
 [params]
 author = "Themefisher"
 contact_form_action = "https://formspree.io/xvowbybb"
