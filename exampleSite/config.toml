@@ -7,14 +7,14 @@ theme = "airspace-hugo"
 title = "Art-Licence | Licensing & Brand Management"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 Design [Themefisher](https://themefisher.com) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.tr]
 contentDir = "content/turkish"
-copyright = "Telif hakkı &copy; 2020 [Themefisher](https://themefisher.com) Tüm hakları saklıdır"
+copyright = "Telif hakkı &copy; 2020 Tasarım [Themefisher](https://themefisher.com) Tüm hakları saklıdır"
 home = "Anasayfa"
 languageCode = "tr-tr"
 languageName = "Tr"
