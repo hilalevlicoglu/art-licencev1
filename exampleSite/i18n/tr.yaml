@@ -28,3 +28,5 @@
   translation: Etiketler
 - id: categories
   translation: Kategoriler
+  id: subject
+  translation: Konu
