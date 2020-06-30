@@ -4,77 +4,75 @@ disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Art-Licence | Licensing & Brand Management"
+title = "Art-Licence | Licensing Agency"
 [Languages.en]
 contentDir = "content/english"
 copyright = "&copy; 2020 Design [Themefisher](https://themefisher.com) All Rights Reserved."
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.en.menu]
-	[[Languages.en.menu.footer]]
-	URL = "contact"
-	name = "Contact"
-	weight = 3
-	[[Languages.en.menu.footer]]
-	URL = "our-license"
-	name = "Our license"
-	weight = 2
-	[[Languages.en.menu.footer]]
-	URL = "about"
-	name = "About"
-	weight = 1	
-	[[Languages.en.menu.main]]
-	URL = "contact"
-	name = "Contact"
-	weight = 4
-	[[Languages.en.menu.main]]
-	URL = "our-license"
-	name = "Our license"
-	weight = 3
-	[[Languages.en.menu.main]]
-	URL = "about"
-	name = "About"
-	weight = 2
-	[[Languages.en.menu.main]]
-	URL = ""
-	name = "Home"
-	weight = 1
+[[Languages.en.menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[Languages.en.menu.footer]]
+URL = "our-license"
+name = "Our license"
+weight = 2
+[[Languages.en.menu.footer]]
+URL = "about"
+name = "About"
+weight = 1
+[[Languages.en.menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+[[Languages.en.menu.main]]
+URL = "our-license"
+name = "Our license"
+weight = 3
+[[Languages.en.menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[Languages.en.menu.main]]
+URL = ""
+name = "Home"
+weight = 1
 [Languages.tr]
 contentDir = "content/turkish"
 copyright = "&copy; 2020 Tasarım [Themefisher](https://themefisher.com) Tüm hakları saklıdır."
 languageCode = "tr-tr"
 languageName = "Tr"
 weight = 2
-[Languages.tr.menu]
-	[[Languages.tr.menu.footer]]
-	URL = "tr/contact"
-	name = "İletişim"
-	weight = 3
-	[[Languages.tr.menu.footer]]
-	URL = "tr/our-license"
-	name = "Lisanslarımız"
-	weight = 2
-	[[Languages.tr.menu.footer]]
-	URL = "tr/about"
-	name = "Hakkımızda"
-	weight = 1	
-	[[Languages.tr.menu.main]]
-	URL = "contact"
-	name = "İletişim"
-	weight = 4
-	[[Languages.tr.menu.main]]
-	URL = "our-license"
-	name = "Lisanslarımız"
-	weight = 3
-	[[Languages.tr.menu.main]]
-	URL = "about"
-	name = "Hakkımızda"
-	weight = 2
-	[[Languages.tr.menu.main]]
-	URL = "tr"
-	name = "Anasayfa"
-	weight = 1
+[[Languages.tr.menu.footer]]
+URL = "tr/contact"
+name = "İletişim"
+weight = 3
+[[Languages.tr.menu.footer]]
+URL = "tr/our-license"
+name = "Lisanslarımız"
+weight = 2
+[[Languages.tr.menu.footer]]
+URL = "tr/about"
+name = "Hakkımızda"
+weight = 1
+[[Languages.tr.menu.main]]
+URL = "contact"
+name = "İletişim"
+weight = 4
+[[Languages.tr.menu.main]]
+URL = "our-license"
+name = "Lisanslarımız"
+weight = 3
+[[Languages.tr.menu.main]]
+URL = "about"
+name = "Hakkımızda"
+weight = 2
+[[Languages.tr.menu.main]]
+URL = "tr"
+name = "Anasayfa"
+weight = 1
 [params]
 author = "Themefisher"
 contact_form_action = "https://formspree.io/xvowbybb"
