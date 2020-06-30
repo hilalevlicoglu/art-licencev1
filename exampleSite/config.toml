@@ -47,7 +47,7 @@ weight = 2
 [Languages.tr.menu]
 	[[Languages.tr.menu.footer]]
 	URL = "contact"
-	name = "İletişim"
+	name = "asdasds"
 	weight = 3
 	[[Languages.tr.menu.footer]]
 	URL = "our-license"
