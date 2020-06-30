@@ -76,7 +76,7 @@ weight = 2
 	name = "Anasayfa"
 	weight = 1
 [Languages.tr.params]
-[Languages.tr.params.contact.form]
+[Languages.tr.params.contact]
 name = "İsminiz"
 email = "Mail Adresiniz"
 subject = "Konu"
