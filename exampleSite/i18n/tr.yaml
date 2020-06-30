@@ -1,0 +1,30 @@
+- id: last_update
+  translation: Son Güncelleme
+- id: phone
+  translation: Telefon
+- id: email
+  translation: Email
+- id: location
+  translation: Konum
+- id: buy_now
+  translation: Şimdi Satın Al
+- id: address_title
+  translation: Ziyaret Edin
+- id: submit
+  translation: Mesaj Gönder
+- id: all
+  translation: Hepsi
+- id: posted_by
+  translation: Tarafından Gönderildi
+- id: read_more
+  translation: Okumaya Devam Et
+- id: latest_posts
+  translation: Son Gönderiler
+- id: page_prev
+  translation: Geri
+- id: page_next
+  translation: İleri
+- id: tags
+  translation: Etiketler
+- id: categories
+  translation: Kategoriler
