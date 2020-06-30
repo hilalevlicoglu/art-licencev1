@@ -28,5 +28,11 @@
   translation: Etiketler
 - id: categories
   translation: Kategoriler
-  id: subject
+- id: your_name
+  translation: İsminiz
+- id: email_adress
+  translation: Email Adresiniz
+- id: subject
   translation: Konu
+- id: your_message
+  translation: Mesajınız

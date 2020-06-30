@@ -28,3 +28,11 @@
   translation: Tags
 - id: categories
   translation: Categories
+- id: your_name
+  translation: Your Name
+- id: email_adress
+  translation: Email Address
+- id: subject
+  translation: Subject
+- id: your_message
+  translation: Your Message
