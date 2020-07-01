@@ -13,7 +13,7 @@ about:
   button:
     enable: true
     label: BİR MESAJ BIRAK
-    link: contact
+    link: tr/contact
   funfacts: []
   description: Test,ng
 features:
