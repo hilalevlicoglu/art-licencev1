@@ -25,8 +25,8 @@ about:
   image: images/wrapper-img.png
   button:
     enable: true
-    label: İletişime Geçin
-    link: contact
+    label: ililili
+    link: our-license/
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
