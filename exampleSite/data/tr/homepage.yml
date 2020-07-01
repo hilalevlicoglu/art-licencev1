@@ -13,9 +13,14 @@ banner:
 about:
   enable: true
   title: Hakkımızda
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: "Art Licence olarak dünyanın en büyük sanatçılarının en sevilen eserlerini
+    markalar ile buluşturuyoruz.\nÜnlü tasarımcılar ile marka iş birlikleri çalışmaları
+    düzenliyoruz.\nLisanslı ve lisanssız tasarım desteklerini ürün geliştirmelerimiz
+    ile destekliyoruz.\nTürkiye’de lisanslı ürün geliştirmek isteyen üreticilerle
+    verimli iş birlikleri gerçekleştiriyoruz.\nDoğru marka doğru ürün sloganımız ile
+    markalarının hede\eerini gerçekleştirmesinde yanında oluyoruz.\nGüçlü kadromuz
+    ve yaratıcı ekibimiz ile yenilikçi bir bakış açısı yaratıyoruz.\nİşimizi aşk ile
+    büyütüyoruz..."
   content: ''
   image: images/wrapper-img.png
   button:
