@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Art-Licence | Licensing Agency"
 [Languages.en]
 contentDir = "content/english"
-copyright = "&copy; {{ .Now.Year }} Design [Themefisher](https://themefisher.com) All Rights Reserved."
+copyright = "&copy; 2020 Design [Themefisher](https://themefisher.com) All Rights Reserved."
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -41,7 +41,7 @@ name = "Home"
 weight = 1
 [Languages.tr]
 contentDir = "content/turkish"
-copyright = "&copy; {{ .Now.Year }} Tasarım [Themefisher](https://themefisher.com) Tüm hakları saklıdır."
+copyright = "&copy; 2020 Tasarım [Themefisher](https://themefisher.com) Tüm hakları saklıdır."
 languageCode = "tr-tr"
 languageName = "Tr"
 weight = 2
