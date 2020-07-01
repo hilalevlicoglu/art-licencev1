@@ -12,12 +12,6 @@ about:
     label: Download Company Profile
     link: "#"
   funfacts:
-  - icon: ion-flash
-    name: test
-    count: "222"
-  - icon: " ion-ios-flame-outline"
-    name: Lines Of Code
-    count: "3500"
   - icon: ion-ios-flask-outline
     name: Completed Projects
     count: "12"
