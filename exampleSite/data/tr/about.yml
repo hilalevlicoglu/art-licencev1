@@ -11,7 +11,7 @@ about:
     ile markalarının hede\eerini gerçekleştirmesinde yanında oluyoruz.\n\nGüçlü kadromuz
     ve yaratıcı ekibimiz ile yenilikçi bir bakış açısı yaratıyoruz."
   button:
-    enable: false
+    enable: true
     label: BİR MESAJ BIRAK
     link: contact
   funfacts: []
