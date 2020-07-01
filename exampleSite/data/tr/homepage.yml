@@ -13,15 +13,16 @@ banner:
 about:
   enable: true
   title: Hakkımızda
-  description: "Art Licence olarak dünyanın en büyük sanatçılarının en sevilen eserlerini
-    markalar ile buluşturuyoruz.\nÜnlü tasarımcılar ile marka iş birlikleri çalışmaları
-    düzenliyoruz.\nLisanslı ve lisanssız tasarım desteklerini ürün geliştirmelerimiz
-    ile destekliyoruz.\nTürkiye’de lisanslı ürün geliştirmek isteyen üreticilerle
-    verimli iş birlikleri gerçekleştiriyoruz.\nDoğru marka doğru ürün sloganımız ile
-    markalarının hede\eerini gerçekleştirmesinde yanında oluyoruz.\nGüçlü kadromuz
-    ve yaratıcı ekibimiz ile yenilikçi bir bakış açısı yaratıyoruz.\nİşimizi aşk ile
-    büyütüyoruz..."
-  content: ''
+  description: |2-
+
+    İşimizi aşk ile büyütüyoruz...
+  content: |-
+    Art Licence olarak dünyanın en büyük sanatçılarının en sevilen eserlerini markalar ile buluşturuyoruz.
+    Ünlü tasarımcılar ile marka iş birlikleri çalışmaları düzenliyoruz.
+    Lisanslı ve lisanssız tasarım desteklerini ürün geliştirmelerimiz ile destekliyoruz.
+    Türkiye’de lisanslı ürün geliştirmek isteyen üreticilerle verimli iş birlikleri gerçekleştiriyoruz.
+    Doğru marka doğru ürün sloganımız ile markalarının hedeflerini gerçekleştirmesinde yanında oluyoruz.
+    Güçlü kadromuz ve yaratıcı ekibimiz ile yenilikçi bir bakış açısı yaratıyoruz.
   image: images/wrapper-img.png
   button:
     enable: true
