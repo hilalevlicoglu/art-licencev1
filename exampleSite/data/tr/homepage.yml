@@ -7,8 +7,8 @@ banner:
   content: AŞKLA YAP!
   button:
     enable: true
-    label: Kimiz?
-    link: about
+    label: Lisanlarımız
+    link: tr/our-license/
 about:
   enable: false
   title: Hakkımızda
