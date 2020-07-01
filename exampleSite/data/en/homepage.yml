@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/slider-bg.webp
   bg_overlay: true
-  title: A Digital Licensing Agency
+  title: ''
   content: DO IT WITH LOVE!
   button:
     enable: true
