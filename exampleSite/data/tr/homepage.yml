@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/slider-bg.webp
   bg_overlay: true
   title: Dijital Lisanslama Ajansı
   content: AŞKLA YAP!
