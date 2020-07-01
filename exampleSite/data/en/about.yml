@@ -2,17 +2,21 @@
 about:
   enable: true
   image: images/company/about.jpg
-  title: We strive to be the best and <br> make awesome work.
+  title: We do our works with love!
   content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+    As Art License, we bring together the most popular works of the world's greatest artists with brands.
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+    We organize brand collaborations with famous designers and support licensed and unlicensed design supports with our product developments.
+
+    We carry out productive cooperation with manufacturers who wish to develop licensed products in Turkey and "with the right brand, the right product" slogan, we stand by its brands in achieving their goals.
+
+    We create an innovative perspective with our strong and creative team.
   button:
     enable: true
     label: Drop Us A Note
     link: contact
   funfacts: []
-  description: Merrrr
+  description: ''
 features:
   enable: false
   title: We are indepented Design & Development Agency
