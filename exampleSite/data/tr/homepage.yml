@@ -11,7 +11,7 @@ banner:
     label: Lisanslarımızı Keşfet
     link: our-license
 about:
-  enable: false
+  enable: true
   title: Hakkımızda
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
@@ -37,7 +37,7 @@ portfolio:
 service:
   enable: false
 cta:
-  enable: true
+  enable: false
   bg_image: images/call-to-action-bg.jpg
   title: We design delightful digital experiences.
   content: Read more about what we do and our philosophy of design. Judge for yourself
