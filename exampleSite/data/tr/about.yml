@@ -4,17 +4,18 @@ about:
   image: images/company/about.jpg
   title: İşimizi aşk ile büyütüyoruz..
   content: "Art Licence olarak dünyanın en büyük sanatçılarının en sevilen eserlerini
-    markalar ile buluşturuyoruz.\nÜnlü tasarımcılar ile marka iş birlikleri çalışmaları
-    düzenliyoruz.\nLisanslı ve lisanssız tasarım desteklerini ürün geliştirmelerimiz
-    ile destekliyoruz.\nTürkiye’de lisanslı ürün geliştirmek isteyen üreticilerle
-    verimli iş birlikleri gerçekleştiriyoruz.\nDoğru marka doğru ürün sloganımız ile
-    markalarının hede\eerini gerçekleştirmesinde yanında oluyoruz.\nGüçlü kadromuz
+    markalar ile buluşturuyoruz.\n\nÜnlü tasarımcılar ile marka iş birlikleri çalışmaları
+    düzenliyoruz.\n\nLisanslı ve lisanssız tasarım desteklerini ürün geliştirmelerimiz
+    ile destekliyoruz.\n\nTürkiye’de lisanslı ürün geliştirmek isteyen üreticilerle
+    verimli iş birlikleri gerçekleştiriyoruz.\n\nDoğru marka doğru ürün sloganımız
+    ile markalarının hede\eerini gerçekleştirmesinde yanında oluyoruz.\n\nGüçlü kadromuz
     ve yaratıcı ekibimiz ile yenilikçi bir bakış açısı yaratıyoruz."
   button:
     enable: false
     label: BİR MESAJ BIRAK
     link: contact
   funfacts: []
+  description: Test,ng
 features:
   enable: false
   title: We are indepented Design & Development Agency
