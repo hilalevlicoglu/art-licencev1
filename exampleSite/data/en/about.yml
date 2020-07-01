@@ -12,7 +12,7 @@ about:
     label: Download Company Profile
     link: "#"
   funfacts:
-  - icon: ti-angle-double-right
+  - icon: ion-flash
     name: test
     count: "222"
   - icon: " ion-ios-flame-outline"
