@@ -32,6 +32,7 @@ fields:
     label: info
 pages:
 - exampleSite/content/turkish/our-license/andy-warhol.md
+- exampleSite/content/turkish/our-license/beethoven.md
 - exampleSite/content/turkish/our-license/david.md
 - exampleSite/content/turkish/our-license/nasa.md
 - exampleSite/content/turkish/our-license/skrik.md
