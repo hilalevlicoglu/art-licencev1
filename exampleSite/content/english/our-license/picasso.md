@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = "Şahıs"
+category = "Person"
 description = ""
 image = "/images/picasso.jpg"
 information = []

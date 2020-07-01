@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = "Şahıs"
+category = "Person"
 description = ""
 image = "/images/leonardo.jpg"
 information = []

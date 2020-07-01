@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = "Diğerleri"
+category = "Others"
 description = ""
 image = "/images/moon.jpg"
 information = []

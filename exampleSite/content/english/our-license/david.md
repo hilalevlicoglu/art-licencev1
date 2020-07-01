@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = "Sanat"
+category = "Art"
 description = ""
 image = "/images/david.jpg"
 information = []
