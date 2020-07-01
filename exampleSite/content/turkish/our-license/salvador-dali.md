@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = "Tarihi Kişiler"
+category = "Kişiler"
 description = ""
 image = "/images/salvador_dali.jpg"
 information = []
