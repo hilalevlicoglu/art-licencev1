@@ -4,7 +4,7 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: A Digital Licensing Agency
-  content: Do IT WITH LOVE
+  content: DO IT WITH LOVE!
   button:
     enable: true
     label: Discover Our LICENSE
