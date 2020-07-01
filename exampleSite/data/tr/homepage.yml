@@ -10,7 +10,7 @@ banner:
     label: Lisanslarımızı Keşfet
     link: our-license
 about:
-  enable: true
+  enable: false
   title: Hakkımızda
   description: |2-
 
