@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = "Şahıs"
+category = "Tarihi Kişiler"
 description = ""
 image = "/images/beethoven.jpg"
 information = []
