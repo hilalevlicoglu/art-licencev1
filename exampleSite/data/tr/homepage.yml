@@ -18,6 +18,10 @@ about:
     right at the coast of the Semantics
   content: Biz böyle şirketiz falan filan
   image: images/wrapper-img.png
+  button:
+    enable: true
+    label: İletişime Geçin
+    link: contact
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
