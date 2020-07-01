@@ -12,6 +12,9 @@ about:
     label: Download Company Profile
     link: "#"
   funfacts:
+  - icon: ti-angle-double-right
+    name: test
+    count: "222"
   - icon: " ion-ios-flame-outline"
     name: Lines Of Code
     count: "3500"
